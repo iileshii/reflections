@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git creates needed files and it determine that this floder will be supported by git
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Working directory does not operate on Git. So you can change everything without a fear to crash somethings
