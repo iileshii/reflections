@@ -5,3 +5,19 @@ Git creates needed files and it determine that this floder will be supported by 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Working directory does not operate on Git. So you can change everything without a fear to crash somethings
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Before commit you can execute git diff --staged and compare last commit and staged files
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When on a project work some developers, or when you can change something for experimental thing and you need to fix critical bugs
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams help to see how commits are linked to each other
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+When we are merging two files we fix exceptions and make final files. The diagram may show us which way is right
