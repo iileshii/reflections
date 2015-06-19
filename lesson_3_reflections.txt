@@ -18,3 +18,7 @@ You don't need to merge big part of code when you make a changes.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I think it maybe google drive or dropbox folder. It would be easier to update files and added new, but it would be not under control and with weak version control
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When I work for experimental feature, or when I work in a team.
