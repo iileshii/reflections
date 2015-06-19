@@ -21,3 +21,8 @@ Diagrams help to see how commits are linked to each other
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 When we are merging two files we fix exceptions and make final files. The diagram may show us which way is right
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros are you shouldn't merge local simply conflicts
+Cons are git can leave any bug in the code
